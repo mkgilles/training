@@ -1,2 +1,4 @@
 # training
-Reposition d'entrainement
+Bienvenue au repository de l'étudiant Gilles MAMBIDI
+
+Repository d'entrainement
